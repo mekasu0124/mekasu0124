@@ -1,16 +1,23 @@
-### Hi there 👋
+# Mekasu0124's Respository
 
-<!--
-**mekasu0124/mekasu0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi and welcome to my repo where you can find all the projects I have done, am doing, or am thinking about attempting. This repo is a main hub for my projects to assist in keeping organization as a primary key along with easy-of-access and easy navigation.
 
-Here are some ideas to get you started:
+I currently work with the languages C#, JavaScript, and Python with Python being my first language. I primarily focus on desktop application development as they are more my speed and I find them rather challenging and engaging to say the least. With game development, although engaging and challenging too, I find them to be a much harder challenge thus resulting in most of the "games" I develop being more along junior level. For more information on each project, please find the README.md file that belongs with it. Thanks for stopping by!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Table of Contents:
+- [Desktop Application Projects](#desktop-application-projects)
+- [Desktop Game Projects](#desktop-game-projects)
+- [Mobile Application Projects](#mobile-application-projects)
+- [Mobile Game Projects](#mobile-game-projects)
+- [Website Projects](#website-projects)
+
+
+# Desktop Application Projects
+
+# Desktop Game Projects
+
+# Mobile Application Projects
+
+# Mobile Game Projects
+
+# Website Projects
