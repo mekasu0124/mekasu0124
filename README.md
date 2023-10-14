@@ -15,6 +15,7 @@ Table of Contents:
 # Desktop Application Projects
 
 # Desktop Game Projects
+- [Meks Math Game](https://github.com/mekasu0124/MeksMathGame)
 
 # Mobile Application Projects
 
