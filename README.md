@@ -3,8 +3,6 @@
 <div align="center">
     <img src="./repo_images/logo.png" />
 </div>
-<iframe src="https://discordapp.com/widget?id=1204576133245575209&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 
 <h1 align="center">Welcome To Mek's GitHub Repository</h1>
 
@@ -24,7 +22,7 @@ Welcome aboard to Mek's Hub. This hub has been built for the purpose of having a
 
 **Note:** At this time, only C# projects come with updaters/installers. All Python projects are source-compiled. All JavaScript projects that are websites are self-hosted; All others can be found on the app store for download.
 
-**Note:** Any projects that are used and pushed to the repository with files that are missing and preventing you from running said application will have comments throughout the code explaining what file is needed and why. If you see that a file is missing and there is no explanation for it, please create a help channel in the discord server.
+**Note:** Any projects that are used and pushed to the repository with files that are missing and preventing you from running said application will have comments throughout the code explaining what file is needed and why. If you see that a file is missing and there is no explanation for it, please create a help channel in the <a href="https://discordapp.com/api/guilds/1204576133245575209/widget.json" aling="center">discord server</a>.
 
 <a href="#top">Top</a>
 
