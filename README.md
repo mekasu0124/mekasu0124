@@ -18,11 +18,15 @@ Table Of Contents
 
 ## Introduction
 
-Welcome aboard to Mek's Hub. This hub has been built for the purpose of having a collective environment for all the projects that I have developed and release to the public. All projects are open-source and some come with installers and updaters. I don't mind if anyone forks or clones the repo, just please do not claim the work as your own and do not push your changes to the main repo. 
+Welcome aboard to Mek's Hub. This hub has been built for the purpose of having a collective environment for all the projects that I have developed and released to the public. All projects are open-source and some come with installers and updaters. I don't mind if anyone forks/clones the repo, just please do not claim the work as your own and do not push your changes to the main repo. 
+
+I typically use a GNLPv3 License when developing my apps. Please follow this license, and
+please ensure that you change at least ~40% of the base code that you clone from my repo
+before claiming it as your own. I really appreciate it.
 
 **Note:** At this time, only C# projects come with updaters/installers. All Python projects are source-compiled. All JavaScript projects that are websites are self-hosted; All others can be found on the app store for download.
 
-**Note:** Any projects that are used and pushed to the repository with files that are missing and preventing you from running said application will have comments throughout the code explaining what file is needed and why. If you see that a file is missing and there is no explanation for it, please create a help channel in the <a href="https://discordapp.com/api/guilds/1204576133245575209/widget.json" aling="center">discord server</a>.
+**Note:** Any projects that are used and pushed to the repository with files that are missing and preventing you from running said application will have comments throughout the code explaining what file is needed and why. If you see that a file is missing and there is no explanation for it, please create a help channel in the <a href="https://discord.gg/vU7BHVtHdR" aling="center">discord server</a>.
 
 <a href="#top">Top</a>
 
@@ -46,7 +50,7 @@ As I am in college for a degree in Software Development and Cyber Security, I ha
 
 ## Websites
 
-Websites are built using the JavaScript language alonside of the [React](https://react.dev/) framework. If you clone a repo that is a website, then you'll need to read through the code to ensure that you're not missing any files. Websites are self-hosted and are written differently that their live counter-parts. The website code that you see here is for public eye view and demonstration purposes only. Each sub-repo in this category contains a link to their live counter-part.
+Websites are built using the JavaScript language alonside of the [React](https://react.dev/) framework. If you clone a repo that is a website, then you'll need to read through the code to ensure that you're not missing any files. Websites are self-hosted and are written differently than their live counter-parts. The website code that you see here is for public eye view and demonstration purposes only. Each sub-repo in this category contains a link to their live counter-part.
 
 <a href="#top">Top</a>
 
