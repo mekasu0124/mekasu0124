@@ -9,10 +9,10 @@
 Table Of Contents
 
 - [Introduction](#introduction)
-- [Desktop Apps](#desktop-apps)
-- [Discord Bots](#discord-bots)
-- [Mobile Apps](#mobile-apps)
-- [Websites](#websites)
+- [Python](#python)
+- [C#](#c#)
+- [JavaScript](#javascript)
+- [HTML/CSS](#html/css)
 - [Other Notes](#other-notes)
 - [A Little About Me](#a-little-about-me)
 
@@ -27,30 +27,6 @@ before claiming it as your own. I really appreciate it.
 **Note:** At this time, only C# projects come with updaters/installers. All Python projects are source-compiled. All JavaScript projects that are websites are self-hosted; All others can be found on the app store for download.
 
 **Note:** Any projects that are used and pushed to the repository with files that are missing and preventing you from running said application will have comments throughout the code explaining what file is needed and why. If you see that a file is missing and there is no explanation for it, please create a help channel in the <a href="https://discord.gg/vU7BHVtHdR" aling="center">discord server</a>.
-
-<a href="#top">Top</a>
-
-## Desktop Apps
-
-Most of the desktop applications that I build are built using the C# programming language accompanied by the [Avalonia](https://avaloniaui.net/GettingStarted) framework. Other desktop applications that I build are done so in Python with the [QT](https://doc.qt.io/qtforpython-6/) framework. Applications built using Python/QT are self-hosted meaning you run them yourself.
-
-<a href="#top">Top</a>
-
-## Discord Bots
-
-All discord bots are built using the [Disnake](https://docs.disnake.dev/en/latest/index.html) api. These bots are built using `.env` and [python-dotenv]([Disnake](https://docs.disnake.dev/en/latest/index.html)) which entails that you will not have access to my bots token, or my guild id, etc. These are things that you will need to fillin with your own bots information.
-
-<a href="#top">Top</a>
-
-## Mobile Apps
-
-As I am in college for a degree in Software Development and Cyber Security, I have not started my Java programming classes as of yet. For now, any mobile applications that are listen here are built using JavaScript and the [React Native](https://reactnative.dev/) framework.
-
-<a href="#top">Top</a>
-
-## Websites
-
-Websites are built using the JavaScript language alonside of the [React](https://react.dev/) framework. If you clone a repo that is a website, then you'll need to read through the code to ensure that you're not missing any files. Websites are self-hosted and are written differently than their live counter-parts. The website code that you see here is for public eye view and demonstration purposes only. Each sub-repo in this category contains a link to their live counter-part.
 
 <a href="#top">Top</a>
 
