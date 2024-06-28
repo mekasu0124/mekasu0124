@@ -1,7 +1,7 @@
 <label id="top"></label>
 
 <div align="center">
-    <img src="./repo_images/logo.png" />
+    <img id="repo-icon" src="./repo_images/logo.png" />
 </div>
 
 <h1 align="center">Welcome To Mek's GitHub Repository</h1>
