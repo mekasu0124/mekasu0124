@@ -1,46 +1,46 @@
 <label id="top"></label>
 
 <div align="center">
-    <img id="repo-icon" src="./repo_images/logo.png" />
+    <img id="repo-icon" src="./repo_images/logo.png" alt="Project Logo" />
 </div>
 
-<h1 align="center">Welcome To Mek's GitHub Repository</h1>
+<h1 align="center">Welcome to Mek's GitHub Repository</h1>
 
-Table Of Contents
+<div align="center">
 
-- [Introduction](#introduction)
-- [Python](#python)
-- [C#](#c#)
-- [JavaScript](#javascript)
-    - [To-Do](https://github.com/mekasu0124/todo)
-- [HTML/CSS](#html/css)
-- [Other Notes](#other-notes)
-- [A Little About Me](#a-little-about-me)
+## [Introduction](#introduction) - [Desktop Apps](#desktop-apps) - [Mobile Apps](#mobile-apps) - [Web Apps](#web-apps) - [Website](#website) - [About Mek](#about-mek)
+
+</div>
+
+<div align="center">
 
 ## Introduction
 
-Welcome aboard to Mek's Hub. This hub has been built for the purpose of having a collective environment for all the projects that I have developed and released to the public. All projects are open-source and some come with installers and updaters. I don't mind if anyone forks/clones the repo, just please do not claim the work as your own and do not push your changes to the main repo. I typically use a GNLPv3 or Apache2 License when developing my apps. Please follow this license.
-
-> **Note:** At this time, only C# projects come with updaters/installers. All Python projects are source-compiled. All JavaScript projects that are websites are self-hosted; All others can be found on the app store for download.
-
-> **Note:** Any projects that are used and pushed to the repository with files that are missing and preventing you from running said application will have comments throughout the code explaining what file is needed and why. If you see that a file is missing and there is no explanation for it, please create a help channel in the [discord server]("https://discord.gg/vU7BHVtHdR").
+This repository is a collection of projects developed by Mek (me) or Mek & Friends, showcasing my, or our, skills in various languages and frameworks. Feel free to explore and contribute to any open-source projects. Anyone is welcome to [join our community](https://discord.gg/vU7BHVtHdR). Ages 13+ Please.
 
 <a href="#top">Top</a>
 
-## Other Notes
+## Desktop Apps
 
-- Future Updates:
-    - repo restructure:
-        - find a better way to outline applications and have the applications denoted by language and/or frameworks used with those apps.
+Mek builds desktop applications using C# with Avalonia & CommunityToolkit.MVVM or ElectronJS with ReactJS. Although I prefer to build my desktop applications as web apps, I am working on separating out C# with Avalonia & CommunityToolkit.MVVM from ElectronJS with ReactJS and leaving the desktop applications to just C#.
 
 <a href="#top">Top</a>
 
-## A Little About Me
+## Mobile Apps
 
-Hi! My name is Mek and I have been programming as a hobbyist for roughly eight years. I am currently in school for a Bachelor's degree in Computer Science focusing in Software Development and Cyber Security. My programming passions are currently to just learn as much as I can, when I can, as I work a full-time job. However, in my spare time I enjoy building desktop apps using C# & Avalonia or ElectronJS wrapped around ReactJS as if I were building a website.
-
-I have been programming on and off since ~2017 after my best friend introduced me to an a.i. model he was working on. It was fascinating. It was this little red car on the screen that was learning its way around the racetrack. It was running into the walls and such. It was hilarous. This memory is how I got introduced to [Python](https://python.org). Although I was a rather stubborn beginner. I took all of a day (or a few hours?) to learn a bit about the basics and then I jumped straight into trying to build a discord bot using the disnake api. Which was a lot more than I expected to be given that my best friend made it all just look so easy :P. 
-
-To outline my hobbies in a more respectible manner, I enjoy building websites and desktop apps. I found my niche in them, I just have not learned the Cyber Security parts of it yet. That comes later in my degree plan in school. I am a full-time student at the [University of Phoenix](https://www.phoenix.edu/) where I take online classes at a more relaxed pace to help the flow with my work schedule. 
+Mobile apps are built using [React Native JS](https://reactnative.dev/). At this time, I have not been able to dive far into this framework as I have primarily focused on learning website and web-app frameworks along with desktop frameworks as that is where my initial interest aligned. I do plan within the coming year or two to dive into the React Native framework and learn how it works to build mobile application counterparts to my web-apps, etc.
 
 <a href="#top">Top</a>
+
+## Web Apps and Website
+
+I currently use [ReactJS](https://react.dev/) and [NextJS](https://nextjs.org/) to build the client-side aspect of websites which classifies them as web-apps, however, I classify them as websites when they're not an "online software" that the user can use for various purposes. Websites are for showcasing information about a company, talent, art, or other and allowing user's a way to view and interact with it. For example: (In my opinion) Facebook is a web app, however, your local middle school has a website. Both are valid, however, I use ReactJS and NextJS to build the client-sides for both.
+
+<a href="#top">Top</a>
+
+## About Mek
+
+I am a passionate programmer currently obtaining a Bachelor's degree in Computer Science focusing on Software Development and Cyber Security at the [University of Phoenix Online](https://www.phoenix.edu/). I enjoy building desktop apps using C# & Avalonia or ElectronJS wrapped around ReactJS.
+
+<a href="#top">Top</a>
+</div>
