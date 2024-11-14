@@ -20,7 +20,7 @@ I digress. At this point in life I am in college, full-time, for my Bachelor's i
 
 [<a href="#top">Top</a>]
 
-## Desktop Apps and Web Applications
+## Desktop Apps and Web Apps
 
 > Desktop and Web Apps have been categorized together as the apps I develop under this category have npm commands in their package.json files to allow you to run the project in either "dev mode" which is in the web, or "public" mode which is the desktop environment build of the app. Each applications repository has a read me file with this explained futher.
 
