@@ -49,10 +49,6 @@ I have dabbled a bit in [React Native](https://reactnative.dev) and although I'm
   - Built using:
     - JavaScript/React Native
     - I have thought about looking into Avalonia's framework even further as you can create a project that is built out for Desktop, Mobile, and Web. Unsure though....
-- Static Websites
-  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 - Under Development:
 
@@ -65,9 +61,9 @@ I have dabbled a bit in [React Native](https://reactnative.dev) and although I'm
 I do love a good framework that does a lot of the heavy lifting for me, however, I do still create static websites from time to time. What I mean by a *"static website"* is a website that is built using vanilla HTML/CSS/JS. Static websites, in my opinion, are great for websites that just showcase information and do not handle things such as user accounts, debit/credit card transactions, etc. Wikipedia would be a good example of a static website if I would have built it.
 
 - Built Using:
-  - HTML
-  - CSS
-  - JS
+  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 - Under Development:
 
