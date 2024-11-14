@@ -8,39 +8,69 @@
 
 <div align="center">
 
-## [Introduction](#introduction) - [Desktop Apps](#desktop-apps) - [Mobile Apps](#mobile-apps) - [Web Apps](#web-apps) - [Website](#website) - [About Mek](#about-mek)
+## [Introduction](#introduction) - [Desktop Apps](#desktop-apps) - [Mobile Apps](#mobile-apps) - [Static Websites](#static-websites) - [Web Apps](#web-apps)
 
 </div>
-
-<div align="center">
 
 ## Introduction
 
-This repository is a collection of projects developed by Mek (me) or Mek & Friends, showcasing my, or our, skills in various languages and frameworks. Feel free to explore and contribute to any open-source projects. Anyone is welcome to [join our community](https://discord.gg/vU7BHVtHdR). Ages 13+ Please.
+Hello there, and welcome to my repo! In this repo, you will find the various applications that I have built or am currently building. I may even list ideas that I may have for applications to build. I have been programming for nearly a decade now with majority of my experience being in Python. I fell in love with Python for its ease of use and readability; not to mention the fact it's super easy to learn for beginners! In my years, I have indulged myself in two other languages, C# and JavaScript. Although C# is fun at times and Python will always be my mother language, JavaScript with the capabilities of building applications in both web-app and desktop environments is just where it's at lol!
 
-<a href="#top">Top</a>
+I digress. At this point in life I am in college, full-time, for my Bachelor's in Computer Science focusing in Software Development and Cyber Security. I'm not much of a game dev, but sitting down and re-creating applications that are on my computer just to see if I can do it is where I have the most fun. Side note, I also enjoy building discord bots in Python and/or JavaScript as well. Below you will find the layout of what applications I am currently building, which ones are public release, and what the applications are built using as far as the client-side framework is concerned.
 
-## Desktop Apps
+[<a href="#top">Top</a>]
 
-Mek builds desktop applications using C# with Avalonia & CommunityToolkit.MVVM or ElectronJS with ReactJS. Although I prefer to build my desktop applications as web apps, I am working on separating out C# with Avalonia & CommunityToolkit.MVVM from ElectronJS with ReactJS and leaving the desktop applications to just C#.
+## Desktop Apps && Web Applications
 
-<a href="#top">Top</a>
+> Desktop and Web Apps have been categorized together as the apps I develop under this category have npm commands in their package.json files to allow you to run the project in either "dev mode" which is in the web, or "public" mode which is the desktop environment build of the app. Each applications repository has a read me file with this explained futher.
+
+I have been working with all three langauges for at least 2 years now, however, for a legit breakdown [Python](https://www.python.org) (8+), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (5+), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) (2+). I stick to working with various desktop frameworks like C#/[Avalonia](https://docs.avaloniaui.net), Python/[PySide6](https://wiki.qt.io/Qt_for_Python), JavaScript/[ReactJS](https://react.dev), [ElectronJS](https://www.electronjs.org/), and [NextJS](https://nextjs.org) as my primary focus is Software Development and that is where my primary expertise will lie and I want to be as versatile of a programmer as I can be hence why my desktop applications are built using web technologies. This not only allows me to follow best practices with building desktop applications, but has also allowed me to become a full-stack web developer, too. 
+
+> Electron serves as the desktop environment wrapper around the React/Next JS client side application.
+
+> Projects under this category that do not have an 'index.js' or 'main.js' file in the client/public folder are web apps
+
+- Under Development:
+  - [Mek's Hub](https://github.com/mekasu0124/MeksHub)
+  - [Track Master Pro](https://github.com/mekasu0124/TrackMasterPro)
+  - [BlackBook](https://github.com/mekasu0124/BlackBook)
+  - [AddressBook](https://github.com/mekasu0124/AddressBook)
+  - [DoYouRemember?](https://github.com/mekasu0124/DoYouRemember)
+
+- Public Release:
+
+[<a href="#top">Top</a>]
 
 ## Mobile Apps
 
-Mobile apps are built using [React Native JS](https://reactnative.dev/). At this time, I have not been able to dive far into this framework as I have primarily focused on learning website and web-app frameworks along with desktop frameworks as that is where my initial interest aligned. I do plan within the coming year or two to dive into the React Native framework and learn how it works to build mobile application counterparts to my web-apps, etc.
+I have dabbled a bit in [React Native](https://reactnative.dev) and although I'm no expert in the framework, I am able to get basic screens built and can *play with it*. I do plan in the future to become more rounded with this framework as almost every application I build (given it's logical) will have a mobile app companion that partners with it. My goal for my applications is to have a version for each (web, desktop, and mobile) along with an online/offline feature that checks for internet connectivity on startup. The idea is to have a *buffer type*-like system so that when the user is offline, the application can still save their data. Ideally, when the user saves anything within any application while having an internet connection, it is then posted to the database and an "offline copy" is updated on the device. This is so that when the user starts the application again, if they don't have an internet connection, the application already knows who they are (or can allow them to login an access their latest save). Once the user has regained internet connectivity and has launched the application again, the application will detect the internet connection and will then start to upload all the saved changes to the database and once the upload is complete, the application will remove the saved user data from the device to free up space and continue functioning. I also plan to try and create some sort of mitigation for if the user has the app open and running and suddenly looses internet. I'm not too sure what I'll do there.
 
-<a href="#top">Top</a>
+- Mobile Applications
+  - Built using:
+    - JavaScript/React Native
+    - I have thought about looking into Avalonia's framework even further as you can create a project that is built out for Desktop, Mobile, and Web. Unsure though....
+- Static Websites
+  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Web Apps and Website
+- Under Development:
 
-I currently use [ReactJS](https://react.dev/) and [NextJS](https://nextjs.org/) to build the client-side aspect of websites which classifies them as web-apps, however, I classify them as websites when they're not an "online software" that the user can use for various purposes. Websites are for showcasing information about a company, talent, art, or other and allowing user's a way to view and interact with it. For example: (In my opinion) Facebook is a web app, however, your local middle school has a website. Both are valid, however, I use ReactJS and NextJS to build the client-sides for both.
+- Public Release:
 
-<a href="#top">Top</a>
+[<a href="#top">Top</a>]
 
-## About Mek
+## Static Websites
 
-I am a passionate programmer currently obtaining a Bachelor's degree in Computer Science focusing on Software Development and Cyber Security at the [University of Phoenix Online](https://www.phoenix.edu/). I enjoy building desktop apps using C# & Avalonia or ElectronJS wrapped around ReactJS.
+I do love a good framework that does a lot of the heavy lifting for me, however, I do still create static websites from time to time. What I mean by a *"static website"* is a website that is built using vanilla HTML/CSS/JS. Static websites, in my opinion, are great for websites that just showcase information and do not handle things such as user accounts, debit/credit card transactions, etc. Wikipedia would be a good example of a static website if I would have built it.
 
-<a href="#top">Top</a>
-</div>
+- Built Using:
+  - HTML
+  - CSS
+  - JS
+
+- Under Development:
+
+- Public Release:
+
+[<a href="#top">Top</a>]
