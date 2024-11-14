@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## [Introduction](#introduction) - [Desktop Apps](#desktop-apps) - [Mobile Apps](#mobile-apps) - [Static Websites](#static-websites) - [Web Apps](#web-apps)
+## [Introduction](#introduction) - [Desktop && Web Apps](#desktop-&&-web-apps) - [Mobile Apps](#mobile-apps) - [Static Websites](#static-websites)
 
 </div>
 
